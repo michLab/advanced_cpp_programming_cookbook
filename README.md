@@ -14,3 +14,7 @@ Show how to use basic Boost libraries - chrono and log.
 ## Chapter 02
 ### Recipe 02
 Shows exception ahndling: noexcept specifier and operator.
+
+## Chapter 03
+### Recipe 01
+Example 02 show The Big Five - five member functions that should be defined in all classes.
