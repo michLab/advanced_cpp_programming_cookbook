@@ -10,3 +10,7 @@ Shows how to implement large header only library as single header library by mer
 Shows how to use clang-tidy to perform static code analyzis, while valgrind is used for dynamic analyzis.
 ### Recipe 05 - Boost
 Show how to use basic Boost libraries - chrono and log.
+
+## Chapter 02
+### Recipe 02
+Shows exception ahndling: noexcept specifier and operator.
